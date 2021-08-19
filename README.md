@@ -9,6 +9,7 @@ Concepts covered:
 <li>Setting up global state with the Context API</li>
 </ul>
 
+NOTE: not mobile friendly
 
 [Live Demo](https://tvshow-contextapi.netlify.app/)
 
